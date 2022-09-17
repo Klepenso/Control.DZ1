@@ -12,7 +12,7 @@
 
 **Готовая блок-схема**
 
-![ControlDZ.drawio](git.jpeg)
+![ControlDZ](ControlDZ1.png)
 
 
 **Запуск программы:**
